@@ -1,6 +1,6 @@
 # Bienvenid(a)👋, a mi perfil de Github
 
- <p><i>Estudiante de Ingeniería de Sistemas e Informática con buenas habilidades para la resolución de problemas. Capaz de trabajar bien en equipo. Apasionado por la programación y con un conjunto de habilidades, optimismo y alegría. Siempre con ganas de aprender nuevos lenguajes, dominar nuevos temas, muy apasionado por la tecnología.</i></p>
+ <p><i>Estudiante de Ingeniería de Sistemas e Informática con buenas habilidades para la resolución de problemas. Capaz de trabajar bien en equipo. Apasionado por la programación y con un conjunto de habilidades, optimismo y alegría. Siempre con ganas de aprender nuevos lenguajes, dominar nuevos temas, muy apasionada por la tecnología.</i></p>
 
 <img src="https://github.com/user-attachments/assets/c24f5c86-d916-4859-8072-436e686d857a" width="694" height="460" alt="image"  />
 
