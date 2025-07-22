@@ -85,14 +85,14 @@
       <h3>📬📥 Conecta conmigo</h3>
     </td>
     <td align="right">
-      <a href="https://www.linkedin.com/in/kgan31/">
+      <a href="https://www.linkedin.com/in/maricielo-victoria-aquijes-rivera-7837272a6/" target="_blank">
         <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
       </a>
-      <a href="mailto:gkaustav57@gmail.com">
-        <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+      <a href="mailto:maricieloaquijes771@gmail.com">
+        <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /> 
       </a>
-      <a href="https://discordapp.com/users/885073575839670302">
-        <img width="100px" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
+      <a href="https://discordapp.com/users/885073575839670302" target="_blank">
+        <img width="100px" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/> 
       </a>
     </td>
   </tr>
