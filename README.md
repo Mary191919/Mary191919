@@ -58,24 +58,9 @@
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-FF3366?logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?logoColor=white)
 ## 🚀 Proyectos Destacados
-
-
 ### [Game-Lab-4-0-UTP-Grupo-8-Equipo-5/desgastado](https://github.com/Game-Lab-4-0-UTP-Grupo-8-Equipo-5/desgastado)
 Reconstruir un mundo en desmoronamiento.  
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=fff)
-
----
-
-### [joseBC377/PlataformaCafeteria](https://github.com/joseBC377/PlataformaCafeteria)
-Integración de Jira, empleo de issues, project y wiki.  
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff)
-
----
-
-### [joseBC377/PlataformaCafeteriaFrente](https://github.com/joseBC377/PlataformaCafeteriaFrente)
-Empleo de **Framework Angular**, prácticas de integración y despliegue continuo usando **Docker** y manejo de llaves secretas.  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ---
 
