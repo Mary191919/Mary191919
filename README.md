@@ -1,100 +1,38 @@
-# Bienvenid(a)👋, a mi perfil de Github
 
- <p><i>Estudiante de Ingeniería de Sistemas e Informática con buenas habilidades para la resolución de problemas. Capaz de trabajar bien en equipo. Apasionado por la programación y con un conjunto de habilidades, optimismo y alegría. Siempre con ganas de aprender nuevos lenguajes, dominar nuevos temas, muy apasionada por la tecnología.</i></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Hola%2C+bienvenid%40+a+mi+perfil!;Me+encanta+diseñar+y+crear+videojuegos)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/c24f5c86-d916-4859-8072-436e686d857a" width="694" height="460" alt="image"  />
 
-<br/>
+ <p><i>Estudiante de Ingeniería de Sistemas e Informática - UTP </i></p>
+
 
 ## 🙆‍♀️ Acerca de mí
-
 </br>
-
-- 🔧Actualmente estoy aprendiendo nuevos programas  para adquirir nuevos conocimientos
-
-- 💡 Me interesan Diseñar y Animar
-- 📖 Actualmente estoy aprendiendo Godot Engine
-- ❄️ Busco colaborar en proyectos de código abierto.
-- 🎮  Me interesa mucho diseñar  videojuegos
-- 📫 Cómo contactarme:  maricieloaquijes771@gmail.com.
+- 🔧Actualmente estoy aprendiendo nuevos programas  para adquirir nuevos conocimientos<p></p>
+- 💡 Me interesan Diseñar y Animar<p></p>
+- 📖 Actualmente estoy aprendiendo Godot Engine<p></p>
+- ❄️ Busco colaborar en proyectos de código abierto.<p></p>
+- 🎮  Me interesa mucho diseñar  videojuegos<p></p>
+- 📫 Cómo contactarme:  maricieloaquijes771@gmail.com.<p></p>
 <hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Chica programando"/>
+</p>
+
+
+
+
 </br>
 
-
-<table width="100%" >
-
- <tr>
-    <td width="60%">
-     
-## 🛠️  Habilidades
-
-#### Lenguajes
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+ ## 🛠️ Tecnologías y Herramientas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 
-#### Desarrollo
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
-
-
-#### Base de datos
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
-
-#### Herramientas y tecnologías
-
-
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
-
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
-
-
-#### Análisis de datos
-
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
-</td>
-    <td>
- 
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h3>📬📥 Conecta conmigo</h3>
-    </td>
-    <td align="right">
-      <a href="https://www.linkedin.com/in/maricielo-victoria-aquijes-rivera-7837272a6/" target="_blank">
-        <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:maricieloaquijes771@gmail.com">
-        <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /> 
-      </a>
-      <a href="https://discordapp.com/users/885073575839670302" target="_blank">
-        <img width="100px" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/> 
-      </a>
-    </td>
-  </tr>
-</table>
+## 🚀 Proyectos Destacados
+- [🎮 Mi primer videojuego en Godot](#)  <!-- Pon aquí el link cuando lo tengas -->
+- [💻 Sistema de reservas Petlove](#)   <!-- Pon aquí el link cuando lo tengas -->
 
